@@ -1,0 +1,20 @@
+Assets structure that works
+
+root
+
+- assets
+    - assets/
+        - audios
+            - mp3
+            - mp3
+            - mp3
+            - etc
+    - audios/
+        - mp3
+        - mp3
+        - mp3
+    - fonts/
+    - packaces/
+    - aqua.png
+    - green.png
+    - etc
